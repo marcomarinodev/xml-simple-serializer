@@ -32,6 +32,7 @@ public class XMLSerializer {
         classToSerialize = introspect(observedClass);
         observedClasses.put(className, classToSerialize);
       } else {
+        System.out.println("class " + className + " already introspected, taking the info from observed classes cache");
         classToSerialize = observedClasses.get(className);
       }
 

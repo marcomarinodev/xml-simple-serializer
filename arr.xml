@@ -7,20 +7,20 @@
 	</Student>
 	<notXMLable />
 	<Order>
-		<null type="null">null</null>
+		<ID type="String">900d2e49-8acc-4a9c-99da-a59c42ba032a</ID>
 		<price type="double">13.4</price>
 		<timestamp type="String">00:00:00</timestamp>
 		<shipped type="boolean">false</shipped>
 	</Order>
 	<Student>
-		<firstName type="String">Jane</firstName>
-		<surname type="String">Doe</surname>
-		<age type="int">28</age>
+		<firstName type="String">Marco</firstName>
+		<surname type="String">Marino</surname>
+		<age type="int">23</age>
 	</Student>
 	<Order>
-		<null type="null">null</null>
-		<price type="double">13.4</price>
-		<timestamp type="String">00:00:00</timestamp>
-		<shipped type="boolean">false</shipped>
+		<ID type="String">61a10f6a-56cd-471f-b7ee-4ac1c70207ce</ID>
+		<price type="double">91.2</price>
+		<timestamp type="String">18:00:00</timestamp>
+		<shipped type="boolean">true</shipped>
 	</Order>
 </list>
